@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Beyza</h1>
 
-- 🔭 I'm a graduate of computer science and engineering
+- 🔭 I'm a computer science and engineering graduate
 
 - 🌱 I’m currently learning Front-End Development
   
