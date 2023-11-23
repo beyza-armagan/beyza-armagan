@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Beyza</h1>
+
 - 🔭 I'm a graduate of computer science and engineering
+
 - 🌱 I’m currently learning Front-End Development
+  
 - 👨‍💻 All of my projects are available at [https://github.com/beyza-armagan](https://github.com/beyza-armagan)
 
 <h3 align="left">Connect with me:</h3>
