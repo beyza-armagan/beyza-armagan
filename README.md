@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Beyza</h1>
+<h2>Hi there 👋, I'm Beyza</h1>
 
 - 🔭 I'm a graduate of computer science and engineering
 
